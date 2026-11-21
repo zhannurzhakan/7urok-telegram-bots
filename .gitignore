@@ -1,0 +1,10 @@
+.env
+tasks.json
+tasks.json.tmp
+__pycache__/
+vacancies.json
+vacancies.json.tmp
+CLAUDE.md
+.DS_Store
+*.tmp
+.claude/
